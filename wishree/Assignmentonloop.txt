@@ -1,0 +1,10 @@
+q1)Write a Java program to check whether a year is leap year or not
+
+
+q2)WAP to print even numbers from 121 to 229 using for loop.
+
+q3)Write a Java program to find sum of all even numbers between 1 to 10
+
+q4)Write a Java program to calculate product of digits of any number.
+
+q5)WAP to print squares from 1 to 5.

@@ -1,0 +1,28 @@
+q1).Write a program that displays the day of the week corresponding to the number entered. i.e.,
+ 1 - "Monday", 2- "Tuesday" and so on.
+
+
+q2)WAP in java using switch case for following: Area of a circle Area of a square Area of a right 
+angled triangle Area of a rectangle Circumference of a circle Perimeter of a square 
+Accept inputs like radius,side,etc through keyboard.
+//Menu driven program using switch case:
+
+q3)int balance=1000;
+
+1.withdraw
+2.deposit
+3.check balance
+4.Exit
+
+1
+int withdraw=sc.
+
+if(balance>500)
+balance=balance-withdraw;
+else
+2
+deposit
+int deposit=sc.
+balnace=balance+deposit;
+3
+4
